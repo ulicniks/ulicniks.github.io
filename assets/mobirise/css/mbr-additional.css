@@ -451,8 +451,9 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #testimonials4-i .mbr-section-title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Indie Flower', cursive;
   color: #c1c1c1;
+  font-size: 72px;
 }
 #content8-l .mbr-section-title,
 #content8-l p {
@@ -463,11 +464,13 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #testimonials1-m .mbr-section-title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
 }
 #contacts1-n STRONG {
   font-family: 'Open Sans', sans-serif;
 }
+
 
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
@@ -476,4 +479,7 @@ h6,
 #header3-u H3 {
   font-family: 'Indie Flower', cursive;
   font-size: 60px;
+}
+#contacts1-n STRONG {
+  font-family: 'Open Sans', sans-serif;
 }

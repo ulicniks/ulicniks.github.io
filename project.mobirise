@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -71,7 +71,7 @@
           },
           "title": "KLIENTI",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"klienti#features3-f\" data-toolbar=\"-mbrBtnMove\">OBALY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEOBALY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ELEKTRO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRENOSNÉ BATÉRIE</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"klienti#features3-f\" data-toolbar=\"-mbrBtnMove\">OBALY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">NEOBALY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">ELEKTRO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">PRENOSNÉ BATÉRIE</a> "
         },
         {
           "_tags": [
@@ -117,7 +117,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://naturpack.sk/vyrobcovia-obalov/komunikacia/",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -126,7 +126,7 @@
           "title1": "KONZULTAČNÉ DNI A SEMINÁRE",
           "subtitle1": "Informujte sa o termínoch najbližších seminárov",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://naturpack.sk/vyrobcovia-obalov/komunikacia/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/dotaznik-600x367.jpg",
@@ -136,20 +136,20 @@
               "link": "https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title2": "DOTAZNÍK",
           "subtitle2": "Vyplnením dotazníka zistíte, či ste definovaný ako výrobca",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIAC</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/white-papers-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://naturpack.sk/dokumenty/",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -158,14 +158,14 @@
           "title3": "DOKUMENTY",
           "subtitle3": "Zmluvy, žiadosti, ohlásenia",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://naturpack.sk/dokumenty/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/zbierka-zakonov-a229cb96d45e3cc6851905f6efe2d9f3-220x145-95-crop-600x395.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://naturpack.sk/legislativa/legislativa-odpadoveho-hospodarstva/",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -174,7 +174,7 @@
           "title4": "ZÁKONY A VYHLÁŠKY",
           "subtitle4": "Získajte prehľad v aktuálnych zákonoch a vyhláškach",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://naturpack.sk/legislativa/legislativa-odpadoveho-hospodarstva/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/contacts-keyboard-buttons-600x450.jpg",
@@ -184,25 +184,29 @@
               "link": "kontakty klienti",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
           "title5": "KONTAKTY",
           "subtitle5": "Kontakty na manažérov podľa regiónov",
           "caption5": "",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"kontakty klienti\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "http://www.vykazy.naturpack.sk/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title6": "PRE ČLENOV",
           "subtitle6": "Podávanie výkazov",
           "caption6": "",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"http://www.vykazy.naturpack.sk/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>"
         }
       ]
     },
@@ -269,9 +273,10 @@
           "_name": "testimonials4",
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#c1c1c1"
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#c1c1c1",
+              "font-size": "72px"
             }
           },
           "testimonial": [
@@ -387,8 +392,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "72px"
             }
           },
           "testimonial": [
@@ -543,7 +549,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Kontakty - klientske oddelenie",
+          "title": "KONTAKTY",
           "meta": ""
         },
         {
@@ -570,6 +576,50 @@
             "showText": false
           },
           "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-bez-pozadia-128x125.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adresa</strong><br>NATUR-PACK, a.s. <br>Ružová dolina 6<br>821 08 Bratislava<br>SLOVAKIA<br>",
+          "text2": "<strong>Kontakty</strong><br>+421-2-502 21 222<br>+421-2-502 21 541 <br>+421-2-502 21 439 <br>+421-2-502 21 146<br>",
+          "text3": "<strong>Pobočky</strong><br><a href=\"http://www.naturpack.sk/kontakty/bratislava-centrala/\">Bratislava</a><br><a href=\"http://www.naturpack.sk/kontakty/banska-bystrica-pobocka/\">Banská Bystrica</a><br><a href=\"http://www.naturpack.sk/kontakty/kosice-pobocka/\">Košice</a><br>Žilina<br>Nitra<br>Trenčín<br>Rožňava"
         }
       ]
     }
