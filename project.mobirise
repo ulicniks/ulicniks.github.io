@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "hlavna stranka",
+    "currentPage": "kontakty klienti",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -521,44 +521,6 @@
         "meta_descr": "Website Creator Description"
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-t",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-nov-claim-kpia-2000x405.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "KONTAKTY",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
         {
           "_tags": [
             "Theme"
