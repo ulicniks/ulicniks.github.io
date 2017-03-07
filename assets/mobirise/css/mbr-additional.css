@@ -468,3 +468,12 @@ h6,
 #contacts1-n STRONG {
   font-family: 'Open Sans', sans-serif;
 }
+
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u H3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+}
