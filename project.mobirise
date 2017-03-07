@@ -80,8 +80,8 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "H5": {
               "font-family": "'Open Sans', sans-serif",
@@ -113,7 +113,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/16904940-464780786979581-1016328282893072822-o-600x408.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-600x387.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -145,7 +145,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIAC</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/white-papers-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/white-papers-600x387.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -172,12 +172,12 @@
             }
           },
           "title4": "ZÁKONY A VYHLÁŠKY",
-          "subtitle4": "Získajte prehľad v aktuálnych zákonoch a vyhláškach",
+          "subtitle4": "Získajte prehľad o aktuálnych zákonoch a vyhláškach",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"http://naturpack.sk/legislativa/legislativa-odpadoveho-hospodarstva/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/contacts-keyboard-buttons-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/contacts-keyboard-buttons-600x387.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
