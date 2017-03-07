@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "hlavna stranka",
+    "currentPage": "klienti",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -181,7 +181,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "#bottom",
+              "link": "kontakty klienti",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
