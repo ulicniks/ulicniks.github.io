@@ -263,7 +263,7 @@
           },
           "title": "NATUR-PACK",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"klienti\" data-toolbar=\"-mbrBtnMove\">KLIENTI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OBCE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OZV NATUR-PACK</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"klienti\" data-toolbar=\"-mbrBtnMove\">KLIENTI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"klienti\" data-toolbar=\"-mbrBtnMove\">OBCE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"klienti\" data-toolbar=\"-mbrBtnMove\">OZV NATUR-PACK</a> "
         },
         {
           "_inherit": "testimonials2",
