@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "firmyspolocnosti",
+    "currentPage": "klienti 2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2261,7 +2261,7 @@
           },
           "title": "DOTAZNÍK",
           "text": "Som výrobca obalov?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" data-toolbar=\"-mbrBtnMove\">DOTAZNÍK</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOTAZNÍK</a>",
           "_styles": {
             "H3": {
               "font-family": "'Lora', serif",
