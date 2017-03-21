@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "klienti 2",
+    "currentPage": "firmyspolocnosti",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1472,7 +1472,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/un-boxes-2000x703.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
