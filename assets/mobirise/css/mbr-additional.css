@@ -1,13 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
 
 
 
@@ -422,12 +423,19 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header3-1e .mbr-section-title,
-#header3-1e .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-2s .mbr-section-title,
+#msg-box8-2s p {
+  color: #fff;
 }
-#header3-1e H3 {
-  font-family: 'Bitter', serif;
+#msg-box8-2s .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#content1-2r LI {
+  text-align: left;
+}
+#content1-2r UL {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
 }
 
 

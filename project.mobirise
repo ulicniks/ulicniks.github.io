@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "klienti 2",
+    "currentPage": "1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 98,
+    "uniqCompNum": 101,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -33,52 +33,64 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             },
-            "H3": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1e",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2s",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "VÝROBCA OBALOV",
-          "meta": ""
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1g",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/snmka-obrazovky-2017-03-21-o20-1400x875.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
+          "_name": "content1",
+          "_anchor": "content1-2r",
           "_params": {
-            "showText": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "<br><ul><li><b>Povinná osoba</b> = balič = dovozca= výrobca obalov (aj keď žiadny obal nevyrábate!) Výrobca, ktorý nie je zapísaný v registri, nesmie uvádzať výrobok na trh SR!!!</li><li><i>Definícia výrobcu obalov</i> (zákon 79/2015 §52 ods.11)</li><li><b>Balič, plnič </b> - podľa § 52  ods. 11 písm. a)  (balí alebo plní výrobky do obalov)</li><li><b>OBJEDNÁVATEĽ SLUŽBY BALENIA</b> - podľa § 52  ods. 11 písm. b)  (objedná zabalenie výrobku, ktorý uvádza na trh pod svojou obchodnou značkou)\nDOVOZCA OBALOV - podľa § 52  ods. 11 písm. c) (dováža na Slovensko výrobky/tovar zabalený v&nbsp;obale)</li><li><b>DISTRIBÚTOR ODOVZDÁVAJÚCI OBAL KONEČNÉMU UŽÍVATEĽOVI NA BEZPROSTREDNÉ ZABALENIE</b> - podľa § 52  ods. 11 písm. d) (poskytuje obaly na bezprostredné zabalenie spotrebiteľovi alebo sám distribuovaný tovar do týchto obalov balí)\n</li><li><b>DISTRIBÚTOR POUŽÍVAJÚCI OBAL NA ZABALENIE </b>distribuovaného TOVARU - podľa § 52  ods. 11 písm. e) (balí distribuovaný tovar do obalu) Dovozca/Výrobca prázdnych obalov pre spotrebiteĽa – nie priame balenie - podľa § 52  ods. 11 písm. f) (vyrába resp. dováža prázdne obaly určené priamo spotrebiteľovi)\n</li></ul>",
+          "_styles": {
+            "LI": {
+              "text-align": "left"
+            },
+            "UL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "22px"
+            }
+          }
         }
       ]
     },
