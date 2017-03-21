@@ -1,12 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-
-
-
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
 
 
@@ -421,6 +423,125 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e H3 {
+  font-family: 'Bitter', serif;
+}
+
+
+
+#testimonials4-1l .mbr-section-title {
+  font-family: 'Bitter', serif;
+  color: #ffffff;
+}
+#testimonials4-1l .card-block {
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+#testimonials4-1l .card-block P {
+  font-family: 'Lora', serif;
+}
+#testimonials4-1l .card-footer > div {
+  color: #ffffff;
+}
+
+#msg-box8-1q .mbr-section-title,
+#msg-box8-1q p {
+  color: #fff;
+}
+#msg-box8-1q .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+
+
+
+
+
+
+
+#msg-box8-21 .mbr-section-title,
+#msg-box8-21 p {
+  color: #fff;
+}
+#msg-box8-21 .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#content1-22 P {
+  font-family: 'Montserrat', sans-serif;
+}
+#content1-22 PRE {
+  font-family: 'Montserrat', sans-serif;
+}
+#content1-24 P {
+  font-family: 'Montserrat', sans-serif;
+}
+#content1-24 PRE {
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-25 .mbr-section-title,
+#header3-25 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-25 H3 {
+  font-family: 'Lora', serif;
+}
+#content6-26 P {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+#msg-box8-28 .mbr-section-title,
+#msg-box8-28 p {
+  color: #fff;
+}
+#msg-box8-28 .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#header3-29 .mbr-section-title,
+#header3-29 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-29 H3 {
+  font-family: 'Montserrat', sans-serif;
+}
+#content1-2e P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+#header3-2f .mbr-section-title,
+#header3-2f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2f H3 {
+  font-family: 'Montserrat', sans-serif;
+}
+#content1-2g P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+#header3-2h .mbr-section-title,
+#header3-2h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2h H3 {
+  font-family: 'Montserrat', sans-serif;
+}
+#content1-2i P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+
+
+
+
 #header1-d .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
   color: #41a85f;
@@ -433,6 +554,13 @@ h6,
 }
 #features3-f H5 {
   font-family: 'Open Sans', sans-serif;
+}
+#features7-w .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-w .iconbox {
+  background-color: #41a85f;
+  border-color: #41a85f;
 }
 
 
@@ -481,4 +609,165 @@ h6,
 }
 #contacts1-n STRONG {
   font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+#header1-y .mbr-section-title {
+  font-family: 'Titillium Web', sans-serif;
+}
+#header1-y .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box8-13 .mbr-section-title,
+#msg-box8-13 p {
+  color: #fff;
+}
+#msg-box8-13 .mbr-section-title {
+  font-family: 'Bitter', serif;
+}
+#features4-z .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-z .iconbox {
+  background-color: #90a878;
+  border-color: #90a878;
+}
+#features4-z H4 {
+  font-family: 'Bitter', serif;
+}
+#msg-box8-12 .mbr-section-title,
+#msg-box8-12 p {
+  color: #fff;
+}
+#msg-box8-12 .mbr-section-title {
+  font-family: 'Bitter', serif;
+}
+#features7-11 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-11 .iconbox {
+  background-color: #90a878;
+  border-color: #90a878;
+}
+#features7-11 H4 {
+  font-family: 'Bitter', serif;
+}
+#msg-box8-14 .mbr-section-title,
+#msg-box8-14 p {
+  color: #fff;
+}
+#msg-box8-14 .mbr-section-title {
+  font-family: 'Bitter', serif;
+}
+#features7-18 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-18 .iconbox {
+  background-color: #90a878;
+  border-color: #90a878;
+}
+#features7-18 H4 {
+  font-family: 'Bitter', serif;
+}
+#msg-box8-16 .mbr-section-title,
+#msg-box8-16 p {
+  color: #fff;
+}
+#msg-box8-16 .mbr-section-title {
+  font-family: 'Bitter', serif;
+}
+#features7-19 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-19 .iconbox {
+  background-color: #90a878;
+  border-color: #90a878;
+}
+#features7-19 H4 {
+  font-family: 'Bitter', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#msg-box8-1b .mbr-section-title,
+#msg-box8-1b p {
+  color: #fff;
+}
+#msg-box8-1b .mbr-section-title {
+  font-family: 'Bitter', serif;
+}
+#msg-box5-1c H3 {
+  font-family: 'Noto Sans', sans-serif;
+  text-align: left;
+}
+#msg-box5-1c .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box4-1d .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box4-1d H3 {
+  font-family: 'Lora', serif;
+}
+#msg-box5-1h H3 {
+  font-family: 'Lora', serif;
+}
+#msg-box5-1h P {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-1h .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box4-1m H3 {
+  font-family: 'Lora', serif;
+}
+#msg-box4-1m .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box5-20 H3 {
+  font-family: 'Lora', serif;
+}
+#msg-box5-20 .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box4-27 H3 {
+  font-family: 'Lora', serif;
+}
+#msg-box4-27 .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box5-2j H3 {
+  font-family: 'Lora', serif;
+}
+#msg-box5-2j .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box4-2o H3 {
+  font-family: 'Lora', serif;
+}
+#msg-box4-2o .btn {
+  font-family: 'Lora', serif;
 }
