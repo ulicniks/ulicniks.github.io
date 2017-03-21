@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 97,
+    "uniqCompNum": 98,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -2188,8 +2188,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1b",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1335.jpg",
@@ -2215,22 +2215,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "text-align": "left"
-            },
-            ".btn": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "msg-box5-1c",
+          "_anchor": "msg-box5-2p",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2252,7 +2241,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1048.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2270,9 +2259,23 @@
               "size": 0
             }
           },
-          "title": "DOTAZNÍK &nbsp;<br>Som výrobca obalov?",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOTAZNÍK</a>"
+          "title": "DOTAZNÍK",
+          "text": "Som výrobca obalov?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" data-toolbar=\"-mbrBtnMove\">DOTAZNÍK</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "right"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -2293,8 +2296,8 @@
           "_anchor": "msg-box4-1d",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2360,8 +2363,8 @@
           "_anchor": "msg-box5-1h",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2420,8 +2423,8 @@
           "_anchor": "msg-box4-1m",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2482,9 +2485,9 @@
           },
           "_anchor": "msg-box5-20",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "46",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2536,9 +2539,9 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-27",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "44",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2599,9 +2602,9 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-2j",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "46",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2663,9 +2666,9 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-2o",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "46",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

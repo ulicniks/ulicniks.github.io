@@ -8,7 +8,6 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
 
 
@@ -719,12 +718,15 @@ h6,
 #msg-box8-1b .mbr-section-title {
   font-family: 'Bitter', serif;
 }
-#msg-box5-1c H3 {
-  font-family: 'Noto Sans', sans-serif;
-  text-align: left;
-}
-#msg-box5-1c .btn {
+#msg-box5-2p H3 {
   font-family: 'Lora', serif;
+  text-align: right;
+}
+#msg-box5-2p .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box5-2p P {
+  text-align: right;
 }
 #msg-box4-1d .btn {
   font-family: 'Lora', serif;
