@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "1",
+    "currentPage": "klienti 2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 101,
+    "uniqCompNum": 118,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -74,13 +74,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<br><ul><li><b>Povinná osoba</b> = balič = dovozca= výrobca obalov (aj keď žiadny obal nevyrábate!) Výrobca, ktorý nie je zapísaný v registri, nesmie uvádzať výrobok na trh SR!!!</li><li><i>Definícia výrobcu obalov</i> (zákon 79/2015 §52 ods.11)</li><li><b>Balič, plnič </b> - podľa § 52  ods. 11 písm. a)  (balí alebo plní výrobky do obalov)</li><li><b>OBJEDNÁVATEĽ SLUŽBY BALENIA</b> - podľa § 52  ods. 11 písm. b)  (objedná zabalenie výrobku, ktorý uvádza na trh pod svojou obchodnou značkou)\nDOVOZCA OBALOV - podľa § 52  ods. 11 písm. c) (dováža na Slovensko výrobky/tovar zabalený v&nbsp;obale)</li><li><b>DISTRIBÚTOR ODOVZDÁVAJÚCI OBAL KONEČNÉMU UŽÍVATEĽOVI NA BEZPROSTREDNÉ ZABALENIE</b> - podľa § 52  ods. 11 písm. d) (poskytuje obaly na bezprostredné zabalenie spotrebiteľovi alebo sám distribuovaný tovar do týchto obalov balí)\n</li><li><b>DISTRIBÚTOR POUŽÍVAJÚCI OBAL NA ZABALENIE </b>distribuovaného TOVARU - podľa § 52  ods. 11 písm. e) (balí distribuovaný tovar do obalu) Dovozca/Výrobca prázdnych obalov pre spotrebiteĽa – nie priame balenie - podľa § 52  ods. 11 písm. f) (vyrába resp. dováža prázdne obaly určené priamo spotrebiteľovi)\n</li></ul>",
           "_styles": {
             "LI": {
               "text-align": "left"
@@ -90,7 +83,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "22px"
             }
-          }
+          },
+          "_anchor": "content1-2r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><ul><li><b>Povinná osoba</b> = balič = dovozca= výrobca obalov (aj keď žiadny obal nevyrábate!) Výrobca, ktorý nie je zapísaný v registri, nesmie uvádzať výrobok na trh SR!!!</li><li><i>Definícia výrobcu obalov</i> (zákon 79/2015 §52 ods.11)</li><li><b>Balič, plnič </b> - podľa § 52  ods. 11 písm. a)  (balí alebo plní výrobky do obalov)</li><li><b>OBJEDNÁVATEĽ SLUŽBY BALENIA</b> - podľa § 52  ods. 11 písm. b)  (objedná zabalenie výrobku, ktorý uvádza na trh pod svojou obchodnou značkou)\nDOVOZCA OBALOV - podľa § 52  ods. 11 písm. c) (dováža na Slovensko výrobky/tovar zabalený v&nbsp;obale)</li><li><b>DISTRIBÚTOR ODOVZDÁVAJÚCI OBAL KONEČNÉMU UŽÍVATEĽOVI NA BEZPROSTREDNÉ ZABALENIE</b> - podľa § 52  ods. 11 písm. d) (poskytuje obaly na bezprostredné zabalenie spotrebiteľovi alebo sám distribuovaný tovar do týchto obalov balí)\n</li><li><b>DISTRIBÚTOR POUŽÍVAJÚCI OBAL NA ZABALENIE </b>distribuovaného TOVARU - podľa § 52  ods. 11 písm. e) (balí distribuovaný tovar do obalu) Dovozca/Výrobca prázdnych obalov pre spotrebiteĽa – nie priame balenie - podľa § 52  ods. 11 písm. f) (vyrába resp. dováža prázdne obaly určené priamo spotrebiteľovi)\n</li></ul>"
         }
       ]
     },
@@ -584,20 +584,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>- kovový háčik – áno </p><p>- IBC kontajner – áno podľa % zloženie\n</p><p>- korkové uzávery - áno\n¥\tplastový vešiak (s oblečením) – áno</p><p>- kovové klietky (Gitterboxy) – áno\n¥\tlepiaca páska – áno </p><p>- samolepky (etikety) – áno\n¥\tplastový vešiak (bez oblečenia) - nie\n</p><p>- kvetináč určený  pre celé obdobie života rastliny - nie\n</p><p>- prázdne fľaše pre cyklistov – nie\n</p><p>- detekčná trubička (alkohol tester) – nie\n</p>",
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "30px"
             }
-          }
+          },
+          "_anchor": "content1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>- kovový háčik – áno </p><p>- IBC kontajner – áno podľa % zloženie\n</p><p>- korkové uzávery - áno\n¥\tplastový vešiak (s oblečením) – áno</p><p>- kovové klietky (Gitterboxy) – áno\n¥\tlepiaca páska – áno </p><p>- samolepky (etikety) – áno\n¥\tplastový vešiak (bez oblečenia) - nie\n</p><p>- kvetináč určený  pre celé obdobie života rastliny - nie\n</p><p>- prázdne fľaše pre cyklistov – nie\n</p><p>- detekčná trubička (alkohol tester) – nie\n</p>"
         },
         {
           "_styles": {
@@ -628,20 +628,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2g",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><i>Odporúčame pomerovo rozdeliť podľa typu zákazníka </i></p><p>- veľkoobchod – predpoklad balič/plnič\n</p><p>- maloobchod –  zodpovedný dovozca\n</p>",
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "30px"
             }
-          }
+          },
+          "_anchor": "content1-2g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>Odporúčame pomerovo rozdeliť podľa typu zákazníka </i></p><p>- veľkoobchod – predpoklad balič/plnič\n</p><p>- maloobchod –  zodpovedný dovozca\n</p>"
         },
         {
           "_styles": {
@@ -672,20 +672,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>- povinnosti RZV za obaly by si mal plniť až ten, čo obal použije na zabalenie\n</p><p>- ten, čo kartón privezie a vyrobí z neho obal nie je ani výrobca obalu ani neobalu \n</p>",
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "25px"
             }
-          }
+          },
+          "_anchor": "content1-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>- povinnosti RZV za obaly by si mal plniť až ten, čo obal použije na zabalenie\n</p><p>- ten, čo kartón privezie a vyrobí z neho obal nie je ani výrobca obalu ani neobalu \n</p>"
         }
       ]
     },
@@ -1584,9 +1584,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "d1",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title3": "DOKUMENTY <br>(na stiahnutie)",
@@ -1600,9 +1601,10 @@
               "name": "file",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "d2",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title4": "ZÁKONY A VYHLÁŠKY",
@@ -2227,6 +2229,20 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "right"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "msg-box5-2p",
           "_params": {
             "imageSize": "45",
@@ -2273,21 +2289,7 @@
           },
           "title": "DOTAZNÍK",
           "text": "Som výrobca obalov?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOTAZNÍK</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "right"
-            },
-            ".btn": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdnHpbm3hcGY9M97Co_bxXzK2UUpetXx8jquWbFhptyhAa_bQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOTAZNÍK</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -2549,6 +2551,16 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
           "_anchor": "msg-box4-27",
           "_params": {
             "imageSize": "44",
@@ -2595,7 +2607,13 @@
           },
           "title": "PRÍRUČKA PRE VÝROBCOV&nbsp;",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/novinky/natur-pack-pripravil-pre-partnerske-obce-prirucku-k-vybranym-castiam-zakona-o-odpadoch/\" data-toolbar=\"-mbrBtnMove\">PRÍRUČKA</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"4.5\" data-toolbar=\"-mbrBtnMove\">PRÍRUČKA</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "font-family": "'Lora', serif",
@@ -2605,13 +2623,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-2j",
           "_params": {
             "imageSize": "46",
@@ -2658,7 +2670,14 @@
           },
           "title": "NAJČASTEJŠIE KLADENÉ OTÁZKY",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"5\" data-toolbar=\"-mbrBtnMove\">OTÁZKY</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"5\" data-toolbar=\"-mbrBtnMove\">OTÁZKY</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
           "_styles": {
             "H3": {
               "font-family": "'Lora', serif",
@@ -2668,14 +2687,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
+          },
           "_anchor": "msg-box4-2o",
           "_params": {
             "imageSize": "46",
@@ -2722,17 +2734,7 @@
           },
           "title": "REGISTER VÝROBCOV VYHRADENÝCH VÝROBKOV NA MŽP",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.minzp.sk/sekcie/temy-oblasti/odpady-obaly/registre-zoznamy/register-vyrobcov-vyhradenych-vyrobkov/\" data-toolbar=\"-mbrBtnMove\">REGISTER VÝROBCOV</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".btn": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.minzp.sk/sekcie/temy-oblasti/odpady-obaly/registre-zoznamy/register-vyrobcov-vyhradenych-vyrobkov/\" data-toolbar=\"-mbrBtnMove\">REGISTER VÝROBCOV</a>"
         }
       ]
     },
@@ -2841,6 +2843,777 @@
             "showText": true
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "d1": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "DOKUMENTY",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "ZMLUVA O SPOLUPRÁCI - OBALY"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "ZMLUVA O SPOLUPRÁCI - NEOBALOVÉ VÝROBKY"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "SÚHLAS SO ZASIELANÍM ELEKTRONICKÝCH FAKTÚR"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "KVARTÁLNE VÝKAZY"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "ZMLUVA O SPOLUPRÁCI"
+        }
+      ]
+    },
+    "d2": {
+      "settings": {
+        "title": "Website Generator Title",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2z",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ZÁKONY A VYHLÁŠKY",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-30",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/novela_373_2015_KNIHY_1.2.2017.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Vyhláška č. 14/2017, ktorou sa mení a dopľňa vyhláška MŽP SR č. 373/2015 o rozšírenej zodpovednosti výrobcov vyhradených a o nakladaní s vyhradenými prúdmi odpadov"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-31",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/zakon%20o%20odpadoch.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Zákon č. 79/2015 Z.z. o odpadoch a o zmene a doplnení niektorých zákonov<div>(aktualizácia zákona účinná od 1.1.2017)</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-32",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_365_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Vyhláška č. 365/2015, ktorou sa ustanovuje Katalóg odpadov."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-33",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_366_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Vyhláška č. 366/2015 o evidenčnej povinnosti a ohlasovacej povinnosti<div>(prílohy obsahujú nové vzory tlačív).</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-34",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_367_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Vyhláška č. 367/2015, ktorou sa mení a dopĺňa vyhláška č. 228/2014, ktorou sa ustanovujú požiadavky na kvalitu palív a vedenie prevádzkovej evidencie o palivách"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-35",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Oznamenie_368_2015_ZZ_o_vydani_vynosu.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Oznámenie 368/2015 Z.z. o vydaní výnosu o jednotných metódach analytickej kontroly odpadov"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-36",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_370_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Vyhláška č. 370/2015 o sadzbách pre výpočet príspevkov do Recyklačného fondu, o zozname výrobkov, materiálov a zariadení, za ktoré sa platí príspevok do Recyklačného fondu, a o podrobnostiach o obsahu žiadosti o poskytnutie prostriedkov z Recyklačného fondu"
+        }
+      ]
+    },
+    "d3": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-37",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "PRE ČLENOV",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-39",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=B04UrrSK-7c",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "AKO PODAŤ VÝKAZ (VIDEONÁVOD)",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-38",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
