@@ -496,6 +496,8 @@ h6,
 }
 #header3-25 H3 {
   font-family: 'Lora', serif;
+  font-size: 20px;
+  text-align: right;
 }
 #content6-26 P {
   font-family: 'Montserrat', sans-serif;
@@ -784,7 +786,13 @@ h6,
   font-family: 'Lora', serif;
 }
 
-
+#header3-3l .mbr-section-title,
+#header3-3l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3l H3 {
+  font-family: 'Lora', serif;
+}
 
 
 
@@ -813,16 +821,6 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #msg-box2-2u .btn {
-  font-family: 'PT Sans', sans-serif;
-}
-#msg-box2-2v .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-2v .mbr-section-subtitle {
-  color: #a0a0a0;
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box2-2v .btn {
   font-family: 'PT Sans', sans-serif;
 }
 #msg-box2-2w .mbr-section-title {
@@ -888,24 +886,12 @@ h6,
 
 
 
-
-
-#msg-box8-2z .mbr-section-title,
-#msg-box8-2z p {
+#msg-box8-3m .mbr-section-title,
+#msg-box8-3m p {
   color: #fff;
 }
-#msg-box8-2z .mbr-section-title {
+#msg-box8-3m .mbr-section-title {
   font-family: 'Lora', serif;
-}
-#msg-box2-3d .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-3d .mbr-section-subtitle {
-  color: #a0a0a0;
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box2-3d .btn {
-  font-family: 'PT Sans', sans-serif;
 }
 #msg-box2-31 .mbr-section-title {
   color: #fff;

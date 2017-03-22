@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "d3",
+    "currentPage": "hlavna stranka",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 131,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -472,7 +472,9 @@
             },
             "H3": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -486,7 +488,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "SPLNOMOCNENÍ ZÁSTUPCOVIA",
+          "title": "ODPORÚČANÍ SPLNOMOCNENÍ ZÁSTUPCOVIA",
           "meta": ""
         },
         {
@@ -1355,7 +1357,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/snmka-obrazovky-2017-03-07-o14-1400x637.png",
+              "src": "@PROJECT_PATH@/assets/images/mapa-nov-web-1400x1373.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2610,7 +2612,7 @@
           },
           "title": "PRÍRUČKA PRE VÝROBCOV&nbsp;",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"4.5\" data-toolbar=\"-mbrBtnMove\">PRÍRUČKA</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"4.5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRÍRUČKA</a>"
         },
         {
           "_tags": [
@@ -2747,6 +2749,30 @@
         "meta_descr": "Site Generator Description"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "PRÍRUČKA PRE VÝROBCOV",
+          "meta": ""
+        },
         {
           "_tags": [
             "Theme"
@@ -2919,7 +2945,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2936,50 +2962,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20obaly-%20(%20od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">ZMLUVA</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20obaly-%20(%20od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">VZOR</a>",
           "title": "",
           "text": "ZMLUVA O SPOLUPRÁCI - OBALY"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2v",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20neobaly%20(od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">ZMLUVA</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20neobaly%20(od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">VZOR</a>",
-          "title": "",
-          "text": "ZMLUVA O SPOLUPRÁCI - NEOBALOVÉ VÝROBKY"
         },
         {
           "_styles": {
@@ -3021,9 +3003,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZMLUVA</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://naturpack.sk\" data-toolbar=\"-mbrBtnMove\">ZMLUVA</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://naturpack.sk\" data-toolbar=\"-mbrBtnMove\">VZOR</a>",
           "title": "",
-          "text": "ZMLUVA S PRÍLOHOU PRE SPLNOMOCNENÉHO ZÁSTUPCU"
+          "text": "ZMLUVA O SPOLUPRÁCI - OBALY S PRÍLOHOU PRE SPLNOMOCNENÉHO ZÁSTUPCU"
         },
         {
           "_styles": {
@@ -3109,7 +3091,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/kvartalne_vykazy_OBALY_2016.doc\" data-toolbar=\"-mbrBtnMove\">VÝKAZ</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">PODANIE VÝKAZU</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/kvartalne_vykazy_OBALY_2016.doc\" data-toolbar=\"-mbrBtnMove\">VZOR VÝKAZU</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=B04UrrSK-7c\" data-toolbar=\"-mbrBtnMove\">AKO PODAŤ VÝKAZ</a>",
           "title": "",
           "text": "KVARTÁLNE VÝKAZY"
         },
@@ -3223,13 +3205,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-2z",
+          "_anchor": "msg-box8-3m",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3244,52 +3226,8 @@
             "showButton": false
           },
           "title": "ZÁKONY A VYHLÁŠKY",
-          "text": "",
+          "text": "<p>OBALOVÁ LEGISLATÍVA</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-3d",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/legislativa/legislativa-odpadoveho-hospodarstva/\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
-          "title": "",
-          "text": "OBALOVÁ LEGISLATÍVA"
         },
         {
           "_styles": {
@@ -3607,6 +3545,16 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_anchor": "msg-box4-39",
           "_params": {
             "imageSize": 50,
@@ -3649,7 +3597,13 @@
           },
           "title": "AKO PODAŤ VÝKAZ (VIDEONÁVOD)",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "font-family": "'Lora', serif",
@@ -3659,13 +3613,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-38",
           "_params": {
             "imageSize": 50,
@@ -3712,7 +3660,14 @@
           },
           "title": "PODANIE VÝKAZU",
           "text": "PODAJTE VÝKAZ TU",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">VÝKAZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">VÝKAZ</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
           "_styles": {
             "H3": {
               "font-family": "'Lora', serif",
@@ -3722,14 +3677,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
+          },
           "_anchor": "msg-box4-3e",
           "_params": {
             "imageSize": 50,
@@ -3776,17 +3724,7 @@
           },
           "title": "ČLENSKÉ KONTO",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">PRIHLÁSENIE</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">PRIHLÁSENIE</a>"
         }
       ]
     },
@@ -3839,6 +3777,20 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
           "_anchor": "msg-box5-3f",
           "_params": {
             "imageSize": 50,
@@ -3884,8 +3836,15 @@
             }
           },
           "title": "KONZULTAČNÉ DNI",
-          "text": "PRÍĎTE K NÁM NA KONZULTÁCIE V TERMÍNE, KTORÝ VÁM VYHOVUJE",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"♣\thttp://www.naturpack.sk/vyrobcovia-obalov/komunikacia/\" data-toolbar=\"-mbrBtnMove\">KONZULTAČNÉ DNI</a>",
+          "text": "DOHODNITE SI S NAMI TERMÍN VOPRED",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/vyrobcovia-obalov/komunikacia/\" data-toolbar=\"-mbrBtnMove\">KONZULTAČNÉ DNI</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
           "_styles": {
             "H3": {
               "font-family": "'Lora', serif",
@@ -3894,19 +3853,8 @@
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "P": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
+          },
           "_anchor": "msg-box4-3g",
           "_params": {
             "imageSize": 50,
@@ -3953,7 +3901,13 @@
           },
           "title": "SEMINÁRE",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.naturpack.sk/seminare/\" data-toolbar=\"-mbrBtnMove\">SEMINÁR NATUR-PACK</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.naturpack.sk/seminare/\" data-toolbar=\"-mbrBtnMove\">SEMINÁR NATUR-PACK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "font-family": "'Lora', serif",
@@ -3963,13 +3917,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-3h",
           "_params": {
             "imageSize": 50,
@@ -4016,17 +3964,7 @@
           },
           "title": "KALENDÁR UDALOSTÍ",
           "text": "KALENDÁR SEMINÁROV A UDALOSTÍ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/seminare/\" data-toolbar=\"-mbrBtnMove\">KALENDÁR</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/seminare/\" data-toolbar=\"-mbrBtnMove\">KALENDÁR</a>"
         }
       ]
     }
