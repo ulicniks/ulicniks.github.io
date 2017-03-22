@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "firmyspolocnosti",
+    "currentPage": "d3",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1619,9 +1619,10 @@
               "name": "viber",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "kontakty klienti",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title5": "KONTAKTY",
@@ -1635,7 +1636,7 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "kontakty klienti",
+              "link": "d3",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
