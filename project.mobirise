@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "naturpack",
-    "currentPage": "klienti 2",
+    "currentPage": "firmyspolocnosti",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 118,
+    "uniqCompNum": 127,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -1327,8 +1327,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "60px"
             }
           },
@@ -1568,9 +1568,10 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page14.html",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title2": "SLUŽBY KLIENTOM",
@@ -1634,9 +1635,10 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "kontakty klienti",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title6": "PRE ČLENOV",
@@ -2930,7 +2932,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20obaly-%20(%20od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">ZMLUVA</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20obaly-%20(%20od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">VZOR</a>",
           "title": "",
           "text": "ZMLUVA O SPOLUPRÁCI - OBALY"
         },
@@ -2974,7 +2976,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20neobaly%20(od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">ZMLUVA</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Zmluva%20o%20plneni%20vyhradenych%20povinnosti%20-%20neobaly%20(od%201.7.2016%20).doc\" data-toolbar=\"-mbrBtnMove\">VZOR</a>",
           "title": "",
           "text": "ZMLUVA O SPOLUPRÁCI - NEOBALOVÉ VÝROBKY"
         },
@@ -3018,53 +3020,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZMLUVA</a>",
           "title": "",
-          "text": "SÚHLAS SO ZASIELANÍM ELEKTRONICKÝCH FAKTÚR"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2x",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
-          "title": "",
-          "text": "KVARTÁLNE VÝKAZY"
+          "text": "ZMLUVA S PRÍLOHOU PRE SPLNOMOCNENÉHO ZÁSTUPCU"
         },
         {
           "_styles": {
@@ -3092,6 +3050,138 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Ohlasenie%20o%20objeme%20vyroby_cezhranic_prepravy%20z%20ineho_cs_do_SR_%20dovozu%20cezhr_prepravy%20do%20ineho_cs.doc\" data-toolbar=\"-mbrBtnMove\">OHLÁSENIE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Ohlasenie%20o%20objeme%20vyroby_cezhranic_prepravy%20z%20ineho_cs_do_SR_%20dovozu%20cezhr_prepravy%20do%20ineho_cs.doc\" data-toolbar=\"-mbrBtnMove\">VZOR</a>",
+          "title": "",
+          "text": "OHLÁSENIE O OBJEME VÝVOZU, DOVOZU, REEXPORTU"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#302f2f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/kvartalne_vykazy_OBALY_2016.doc\" data-toolbar=\"-mbrBtnMove\">VÝKAZ</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">PODANIE VÝKAZU</a>",
+          "title": "",
+          "text": "KVARTÁLNE VÝKAZY"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/logo%20NATUR_PACK.png\" data-toolbar=\"-mbrBtnMove\">LOGO</a>",
+          "title": "",
+          "text": "LOGO NATURPACK"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3106,9 +3196,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/NATURPACK-ziadost-vyrobca_obalov.doc\" data-toolbar=\"-mbrBtnMove\">ŽIADOSŤ</a>",
           "title": "",
-          "text": "ZMLUVA O SPOLUPRÁCI"
+          "text": "ŽIADOSŤ O ZÁPIS DO REGISTRA VÝROBCOV OBALOV"
         }
       ]
     },
@@ -3175,14 +3265,14 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-30",
+          "_anchor": "msg-box2-3d",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3196,9 +3286,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/novela_373_2015_KNIHY_1.2.2017.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/legislativa/legislativa-odpadoveho-hospodarstva/\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
           "title": "",
-          "text": "Vyhláška č. 14/2017, ktorou sa mení a dopľňa vyhláška MŽP SR č. 373/2015 o rozšírenej zodpovednosti výrobcov vyhradených a o nakladaní s vyhradenými prúdmi odpadov"
+          "text": "OBALOVÁ LEGISLATÍVA"
         },
         {
           "_styles": {
@@ -3226,7 +3316,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#302d2c",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3242,51 +3332,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/zakon%20o%20odpadoch.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
           "title": "",
-          "text": "Zákon č. 79/2015 Z.z. o odpadoch a o zmene a doplnení niektorých zákonov<div>(aktualizácia zákona účinná od 1.1.2017)</div>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-32",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_365_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
-          "title": "",
-          "text": "Vyhláška č. 365/2015, ktorou sa ustanovuje Katalóg odpadov."
+          "text": "Zákon o odpadoch č. 79/2015 Z.z. (Obaly - 4.časť 4.oddiel)"
         },
         {
           "_styles": {
@@ -3351,7 +3397,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-34",
+          "_anchor": "msg-box2-30",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -3372,9 +3418,53 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_367_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska-373_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
           "title": "",
-          "text": "Vyhláška č. 367/2015, ktorou sa mení a dopĺňa vyhláška č. 228/2014, ktorou sa ustanovujú požiadavky na kvalitu palív a vedenie prevádzkovej evidencie o palivách"
+          "text": "Vyhláška č. 373/2015 o rozšírenej zodpovednosti výrobcov vyhradených výrobkov a o nakladaní s vyhradenými prúdmi odpadov"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-34",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_371_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "title": "",
+          "text": "Vyhláška č. 371/2015, ktorou sa vykonávajú niektoré ustanovenia zákona o odpadoch"
         },
         {
           "_styles": {
@@ -3402,7 +3492,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#2e2b2b",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3416,9 +3506,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Oznamenie_368_2015_ZZ_o_vydani_vynosu.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_370_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
           "title": "",
-          "text": "Oznámenie 368/2015 Z.z. o vydaní výnosu o jednotných metódach analytickej kontroly odpadov"
+          "text": "Vyhláška č. 370/2015 o sadzbách pre výpočet príspevkov do Recyklačného fondu, o zozname výrobkov, materiálov a zariadení, za ktoré sa platí príspevok do Recyklačného fondu, a o podrobnostiach o obsahu žiadosti o poskytnutie prostriedkov z Recyklačného fondu"
         },
         {
           "_styles": {
@@ -3439,14 +3529,14 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-36",
+          "_anchor": "msg-box2-32",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3460,9 +3550,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_370_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/images/content/Vyhlaska_365_2015.pdf\" data-toolbar=\"-mbrBtnMove\">STIAHNUŤ</a>",
           "title": "",
-          "text": "Vyhláška č. 370/2015 o sadzbách pre výpočet príspevkov do Recyklačného fondu, o zozname výrobkov, materiálov a zariadení, za ktoré sa platí príspevok do Recyklačného fondu, a o podrobnostiach o obsahu žiadosti o poskytnutie prostriedkov z Recyklačného fondu"
+          "text": "Vyhláška č. 365/2015, ktorou sa ustanovuje Katalóg odpadov."
         }
       ]
     },
@@ -3492,7 +3582,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3563,6 +3653,10 @@
             "H3": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -3597,7 +3691,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3611,9 +3709,323 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "PODANIE VÝKAZU",
+          "text": "PODAJTE VÝKAZ TU",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">VÝKAZ</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ČLENSKÉ KONTO",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.vykazy.naturpack.sk/\" data-toolbar=\"-mbrBtnMove\">PRIHLÁSENIE</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "title": "Web Builder Title",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "SLUŽBY KLIENTOM",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3f",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "KONZULTAČNÉ DNI",
+          "text": "PRÍĎTE K NÁM NA KONZULTÁCIE V TERMÍNE, KTORÝ VÁM VYHOVUJE",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"♣\thttp://www.naturpack.sk/vyrobcovia-obalov/komunikacia/\" data-toolbar=\"-mbrBtnMove\">KONZULTAČNÉ DNI</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3g",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "SEMINÁRE",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.naturpack.sk/seminare/\" data-toolbar=\"-mbrBtnMove\">SEMINÁR NATUR-PACK</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3h",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x937.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "KALENDÁR UDALOSTÍ",
+          "text": "KALENDÁR SEMINÁROV A UDALOSTÍ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.naturpack.sk/seminare/\" data-toolbar=\"-mbrBtnMove\">KALENDÁR</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     }
